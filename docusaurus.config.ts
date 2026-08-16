@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'BelCore Docs',
+  title: 'HavenCore Docs',
   tagline: 'Learn all about modern WoW emulation!',
   favicon: 'img/logo.png',
 
@@ -15,7 +15,7 @@ const config: Config = {
   },
 
   // Set the production URL of your site here
-  url: 'https://Bel-Core.github.io',
+  url: 'https://Sylian1337.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/HavenCore-Docs/',

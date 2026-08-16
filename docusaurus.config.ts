@@ -71,7 +71,7 @@ const config: Config = {
       respectPrefersColorScheme: false,
     },
     navbar: {
-      title: 'BelCore Docs',
+      title: 'HavenCore Documentation',
       logo: {
         alt: 'BelCore',
         src: 'img/logo.png',
@@ -85,7 +85,7 @@ const config: Config = {
         },
         //{to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/Bel-Core/Bel-Core-TWW',
+          href: 'https://github.com/HavenWoW/BFA-HavenCore',
           label: 'GitHub',
           position: 'right',
         },
@@ -112,7 +112,7 @@ const config: Config = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discord.gg/8mCMBCZqUr',
+              href: 'https://discord.gg/une26qYGvZ',
             },
           ],
         },
@@ -120,8 +120,8 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'GitHub',
-              href: 'https://github.com/Bel-Core/Bel-Core-TWW',
+              label: 'SpellEditor BFA',
+              href: 'https://github.com/HavenWoW/BFA-HavenCore',
             },
           ],
         },

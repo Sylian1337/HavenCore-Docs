@@ -34,8 +34,8 @@ function HomepageHeader() {
 export default function Home(): ReactNode {
   return (
     <Layout
-      title="BelCore Documentation"
-      description="Learn about The War Within (TWW) modding by using BelCore!">
+      title="HavenCore Documentation"
+      description="Learn about Battle for Azeroth (BFA) modding by using HavenCore!">
       <HomepageHeader />
       <main>
         {/*<HomepageFeatures />*/}

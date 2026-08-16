@@ -126,7 +126,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} BelCore, Inc.`,
+      copyright: `Copyright © ${new Date().getFullYear()} HavenCore, Inc.`,
     },
     prism: {
       theme: prismThemes.github,

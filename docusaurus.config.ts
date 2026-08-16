@@ -22,7 +22,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'HavenCore', // Usually your GitHub org/user name.
+  organizationName: 'Sylian1337', // Usually your GitHub org/user name.
   projectName: 'HavenCore-Docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
